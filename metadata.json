@@ -1,0 +1,6 @@
+{
+  "name": "FreshGo Grocery Delivery",
+  "description": "Modern, responsive mobile-first grocery delivery platform with robust state management, resilient cart persistence, and stale-search protection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
